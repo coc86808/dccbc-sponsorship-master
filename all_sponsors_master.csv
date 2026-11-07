@@ -1,0 +1,91 @@
+SL No,Company Name,Industry Sector,Highest Sponsorship Tier,Clubs Sponsored,Key Events Sponsored,Reference File
+1,HSBC Bangladesh,Banking & Finance,Title Sponsor (6 Flagships),"IBACC (DU), Biz Bee (BRACU)","HSBC IBA Case Competition (4 editions), HSBC-BBS Case Competition (2 editions)","ibacc_sponsors.md, bizbee_sponsors.md"
+2,Eastern Bank PLC (EBL),Banking & Finance,Title Sponsor (2 Flagships),"NSU YES!, IUB EBC","Ad Maker Bangladesh 2026, E-Volve 2.0 (2025)","nsuyes_sponsors.md, ibc_sponsors.md"
+3,Trust Bank Limited,Banking & Finance,Title Sponsor & In Association With,"ACCBC, BUP BCC","2nd Trust Bank ACC Business Fest 2017, CreADive 2026, Creaventure 3.0","accbc_sponsors.md, bupbcc_sponsors.md"
+4,Mutual Trust Bank PLC (MTB),Banking & Finance,Title Sponsor & In Association With,"Biz Bee (BRACU), NSU YES!","Brainiacs 2023, Masters of Ideation 2025","bizbee_sponsors.md, nsuyes_sponsors.md"
+5,Standard Chartered Bank (SCB),Banking & Finance,Title Sponsor,IBACC (DU),SCB IBA Innovation Challenge,ibacc_sponsors.md
+6,BRAC Bank Limited,Banking & Finance,Platinum Sponsor,IBACC (DU),Brandwitz 2017,ibacc_sponsors.md
+7,Southeast Bank PLC,Banking & Finance,Title Sponsor & In Association With,"NSU YES!, ACCBC","Entrepret Season 3, Creaventure 3.0","nsuyes_sponsors.md, accbc_sponsors.md"
+8,NRBC Bank PLC,Banking & Finance,Powered By & Co-Sponsor,"BUP BCC, NSU YES!","Corporiddlerz 2019, Ad Maker Bangladesh 2023","bupbcc_sponsors.md, nsuyes_sponsors.md"
+9,NCC Bank Limited,Banking & Finance,Title Sponsor,NSU YES!,Ad Maker Bangladesh 2025,nsuyes_sponsors.md
+10,City Bank PLC,Banking & Finance,Co-Powered By Sponsor,VoB (DU),VoB Job Fair 2026,vob_sponsors.md
+11,Pubali Bank PLC,Banking & Finance,Powered By Sponsor,VoB (DU),VoB Job Fair 2026,vob_sponsors.md
+12,Bank Asia PLC,Banking & Finance,In Association With,Biz Bee (BRACU),BIZ VERSE 2025,bizbee_sponsors.md
+13,Dhaka Bank PLC,Banking & Finance,Presenting Sponsor,DCCBC,ACCQUANTUM 2026,dccbc_sponsors.md
+14,IDLC Finance Limited,Banking & Finance / NBFI,Title Sponsor & Corporate Partner,"BUP BCC, Biz Bee","ThinkTank, Make Your Mark","bupbcc_sponsors.md, bizbee_sponsors.md"
+15,IPDC Finance Limited,Banking & Finance / NBFI,Title Sponsor,VoB (DU),BRANDrill 2020,vob_sponsors.md
+16,Shanta Securities Limited,Banking & Finance / Brokerage,Corporate Sponsor,IUB EBC,Mastering Personal Finance: The Gen-Z Way,ibc_sponsors.md
+17,Western Union,Banking & Finance / Remittance,Title Sponsor (CSR),BUP BCC,Mission Hashimukh Ramadan CSR,bupbcc_sponsors.md
+18,bKash Limited,MFS & Fintech,Payment Partner (4 Clubs),"BUP BCC, NSU YES!, NDBC, DCCBC","Corporiddlerz 2019, Fintech Session, Campus Fests","bupbcc_sponsors.md, nsuyes_sponsors.md"
+19,Gold Kinen,Fintech / Digital Gold,Title Sponsor & Co-Sponsor,"JBC, NSU YES!","Powerpreneur 4.0 Roadshow, Entrepret Season 3","jbc_sponsors.md, nsuyes_sponsors.md"
+20,Trust Axiata Pay (TAP),MFS & Fintech,Powered By Sponsor,BUP BCC,Gateway 2022,bupbcc_sponsors.md
+21,"Unilever Bangladesh (Rexona, Lever Ayush)",FMCG & Personal Care,Title Sponsor & Gift Partner (5 Clubs),"BUP BCC, NSU YES!, IBACC, VoB, NDBC","CreADive 2026, Masters of Ideation 2018, Career in Retail Finance","bupbcc_sponsors.md, nsuyes_sponsors.md"
+22,British American Tobacco Bangladesh (BATB),Multinational FMCG,Participating Employer & Roadshow Host,"VoB (DU), BUP BCC","Battle of Minds Roadshow, VoB Job Fair 2026","vob_sponsors.md, bupbcc_sponsors.md"
+23,Nestlé Bangladesh (Nescafé),Food & Beverage,Coffee Partner & Youth Engagement,"NSU YES!, IBACC",Ad Maker Bangladesh 2026 Coffee Lounge,nsuyes_sponsors.md
+24,Perfetti Van Melle,Confectionery / FMCG,Title Sponsor (2 Editions),"BUP BCC, NSU YES!","CreADive 2020, Masters of Ideation 2020","bupbcc_sponsors.md, nsuyes_sponsors.md"
+25,New Zealand Dairy Products Bangladesh,Dairy & FMCG,In Association With Sponsor,VoB (DU),VoB Job Fair 2026,vob_sponsors.md
+26,PepsiCo / Transcom Beverages (Pepsi),Beverage & FMCG,Title Sponsor & Beverage Partner,IUB EBC,PepsiTurf Youth Fest,ibc_sponsors.md
+27,Polar Ice Cream,Dairy & Ice Cream,In Association With Sponsor,BUP BCC,CreADive 2026,bupbcc_sponsors.md
+28,SPEED (Akij Food & Beverage Ltd.),Beverage & FMCG,Presenting Partner,IBACC (DU),Brandwitz X,ibacc_sponsors.md
+29,PRAN-RFL Group,"Food, Beverage & Light Eng.",Title Sponsor & Industrial Host (5 Clubs),"VoB, ACCBC, NDBC, DCCBC, BUP BCC","BRANDrill 2018, Pran-RFL Factory Tour 2024","vob_sponsors.md, accbc_sponsors.md"
+30,Fresh (Meghna Group of Industries - MGI),FMCG & Conglomerate,Title Sponsor (2 Editions),"BUP BCC, Biz Bee","CreADive 2026, Summer Sault 2019","bupbcc_sponsors.md, bizbee_sponsors.md"
+31,City Group (Teer),FMCG & Consumer Goods,Title Sponsor (2 Editions),VoB (DU),"BRANDrill 5.0 (2025), BRANDrill 2017",vob_sponsors.md
+32,"Abul Khair Group (Marks, Shah Cement)",Conglomerate & Heavy Industry,Title Sponsor & Powered By (4 Clubs),"Biz Bee, NSU YES!, NDBC, VoB","BRAINIACS 2025, Marks Active School, MIC Roadshow","bizbee_sponsors.md, nsuyes_sponsors.md"
+33,Ispahani (M. M. Ispahani Limited),Tea & Agro Conglomerate,Title Sponsor & Partner,"Biz Bee, VoB","Casessination 2.0 (2021), BRANDrill","bizbee_sponsors.md, vob_sponsors.md"
+34,Abdul Monem Limited (AML),Conglomerate / Food & Infra,Title Sponsor,ACCBC,1st AML-ACC Business Idea Festival 2016,accbc_sponsors.md
+35,Transcom Group,Diversified Conglomerate,Powered By Sponsor,Biz Bee (BRACU),BIZ VERSE 2025,bizbee_sponsors.md
+36,Nourish Poultry & Hatchery Limited,Agro & Feed Conglomerate,Title Sponsor,IBACC (DU),Intra IBA Business Case Competition 2026,ibacc_sponsors.md
+37,Krishibid Group,Agro & Real Estate,Powered By Sponsor,NSU YES!,Entrepret Season 3,nsuyes_sponsors.md
+38,Sena Kalyan Sangstha (SKS),Conglomerate & Trust,Title Sponsor (2 Editions),BUP BCC,"Corporiddlerz 2017, Corporiddlerz 2016",bupbcc_sponsors.md
+39,Bengal Group of Industries,Industrial Conglomerate,Title Sponsor,BUP BCC,Bengal CreADive 2018,bupbcc_sponsors.md
+40,Berger Paints Bangladesh Limited,Paints & Chemicals,Title Sponsor (3 Editions),"Biz Bee, BUP BCC","ADwiz 2017, Corporiddlerz 2021, CreADive 2016","bizbee_sponsors.md, bupbcc_sponsors.md"
+41,Bashundhara Group,"Paper, Media & Sports Conglomerate",Title Sponsor & Power Partner (4 Clubs),"Biz Bee, NDBC, DCCBC, JBC","ADWiz 2.0 (Bashundhara Exercise Book), Kings","bizbee_sponsors.md, ndbc_sponsors.md"
+42,Monno Ceramics,Ceramics & Tableware,Powered By & Crest Partner,"NSU YES!, BUP BCC","Ad Maker Bangladesh 2023, CreADive 2026","nsuyes_sponsors.md, bupbcc_sponsors.md"
+43,CBC Tiles,Building Materials,Powered By Sponsor,VoB (DU),BRANDrill 5.0 (2025),vob_sponsors.md
+44,X Ceramics Group,Ceramics & Building Materials,Powered By Sponsor,Biz Bee (BRACU),ADWiz 2.0,bizbee_sponsors.md
+45,Walton Hi-Tech Industries PLC,Electronics & Appliances,Title Sponsor,JBC,Walton 3rd Josephite Entrepreneurs' Den,jbc_sponsors.md
+46,Yamaha Motorcycles Bangladesh (ACI Motors),Automotive & Mobility,Title Sponsor (2 Editions),"Biz Bee, NSU YES!, NDBC","Casessination 2020, NMCI 2023","bizbee_sponsors.md, nsuyes_sponsors.md"
+47,Suzuki Motorbikes (Rancon),Automotive & Mobility,Title Sponsor,NSU YES!,Ad Maker Bangladesh 2019,nsuyes_sponsors.md
+48,Nokia Phones (HMD Global),Mobile Devices,Powered By Sponsor,NSU YES!,Ad Maker Bangladesh 2019,nsuyes_sponsors.md
+49,SK+F (Eskayef Pharmaceuticals Ltd.),Pharmaceuticals,Title Sponsor,JBC,SK+F 4th Josephite Entrepreneurs' Den,jbc_sponsors.md
+50,The ACME Laboratories Ltd.,Pharmaceuticals,Co-Sponsor,NSU YES!,Entrepret Season 1,nsuyes_sponsors.md
+51,Bio-Xin Cosmeceuticals,Skincare & Cosmeceuticals,Title Sponsor,JBC,Bio-Xin National Talent Fest 2025,jbc_sponsors.md
+52,Este Medical Bangladesh,Aesthetic Healthcare,Powered By Sponsor,NSU YES!,Masters of Ideation 2025,nsuyes_sponsors.md
+53,Maya (Maya Health),HealthTech / Telemedicine,Co-Sponsor,NSU YES!,Ad Maker Bangladesh 2026,nsuyes_sponsors.md
+54,Concord Group,Real Estate & Entertainment,Co-Sponsor,VoB (DU),BRANDrill 5.0 (2025),vob_sponsors.md
+55,The Structural Engineers Ltd. (SEL),Real Estate & Civil Eng.,Activation Partner,BUP BCC,CreADive 2026,bupbcc_sponsors.md
+56,Noor Unique Builders,Real Estate & Construction,In Association With,NSU YES!,Entrepret Season 3,nsuyes_sponsors.md
+57,Bangla Trac Limited,Heavy Infrastructure,Silver Sponsor,IBACC (DU),Brandwitz 2017,ibacc_sponsors.md
+58,Pathao,Tech Startup / Logistics,Co-Sponsor & Digital Partner,"NSU YES!, NDBC","Ad Maker Bangladesh 2025, Business Fest","nsuyes_sponsors.md, ndbc_sponsors.md"
+59,Shohoz,Tech Startup / Ticketing,Co-Host & Co-Sponsor,NSU YES!,"Shohoz Shorts 2019, Ad Maker 2019",nsuyes_sponsors.md
+60,Sheba Holdings Ltd. (Sheba.xyz),On-Demand Services,Title Sponsor,NSU YES!,Masters of Ideation 2025,nsuyes_sponsors.md
+61,Evaly,E-Commerce,Title Sponsor,NSU YES!,Entrepret Season 2,nsuyes_sponsors.md
+62,AiA Ventures LTD,Venture Capital,Driven By Sponsor,NSU YES!,Entrepret Season 3,nsuyes_sponsors.md
+63,Area 71 Venture Limited,Venture Incubation,Event Sponsor,IUB EBC,E-Volve 1.0,ibc_sponsors.md
+64,FlexFume,Startup & E-Commerce,Startup Knowledge Partner,DCCBC,Workshop on Startup Strategy,dccbc_sponsors.md
+65,marketUP,B2B E-Commerce,Gold Sponsor,VoB (DU),Enlist'26,vob_sponsors.md
+66,TAAGA / TAAGA MAN (Aarong / BRAC),Fashion & Lifestyle Retail,Title Sponsor,NSU YES!,Ad Maker Bangladesh 2023,nsuyes_sponsors.md
+67,Apex Footwear Ltd.,Footwear & Retail,Corporate Industry Host,VoB (DU),Corporate Connect: Apex,vob_sponsors.md
+68,Pride Limited,Fashion & Apparel,Title Sponsor,IBACC (DU),Inter University Quiz,ibacc_sponsors.md
+69,Unilliance Group,Textile & Garment Export,Corporate Host & Partner,ACCBC,ABC Field Trip 2019,accbc_sponsors.md
+70,Turkish Airlines,Aviation / International Airline,Title Sponsor,Biz Bee (BRACU),BIZ VERSE 2025,bizbee_sponsors.md
+71,Rustic Eatery,Hospitality & Dining,Title Sponsor,NDBC,Business Fest Bangladesh 2025,ndbc_sponsors.md
+72,Green & Pepper,Dining & Restaurant,Co-Powered By Sponsor,IUB EBC,E-Volve 2.0 (2025),ibc_sponsors.md
+73,ACCA Bangladesh,Professional Accounting Body,Powered By & Education Partner,"BUP BCC, NDBC","Biz Quest 2024, Career Pathways","bupbcc_sponsors.md, ndbc_sponsors.md"
+74,Eclectic Education,EdTech & Career Mentorship,Powered By & Event Sponsor,VoB (DU),"BRANDrill 2020, Biznnovation 2019",vob_sponsors.md
+75,United International University (UIU),Higher Education,Title Sponsor,NDBC,Business Fest Bangladesh 2026,ndbc_sponsors.md
+76,StudyIn,Higher Education Consultancy,Title Sponsor,VoB (DU),Enlist'26,vob_sponsors.md
+77,IECC,Study Abroad Consultancy,Title Sponsor,BUP BCC,Gateway 2026,bupbcc_sponsors.md
+78,Sangen Edu Ltd.,Study Abroad Consultancy,Title Sponsor,BUP BCC,Gateway 2024,bupbcc_sponsors.md
+79,Banglay IELTS & Immigration Center,EdTech & IELTS,Powered By Sponsor,NDBC,Business Fest Bangladesh 2026,ndbc_sponsors.md
+80,Tripploy,Student Consultancy & Travel Tech,Title Sponsor,DCCBC,Orientation & Iftar Mehfil,dccbc_sponsors.md
+81,Skill Sphere,EdTech & Digital Skills,Learning Partner,IUB EBC,Cloud Accounting Workshop,ibc_sponsors.md
+82,The Business Standard (TBS),Daily English Business Newspaper,Print & Media Partner (4 Clubs),"NDBC, VoB, BUP BCC, IUB EBC","Business Fest Bangladesh, CreADive, E-Volve",all_sponsors_master_database.md
+83,The Daily Star,National English Daily,Official Publication Partner,"IBACC, NSU YES!, BUP BCC","HSBC IBA Case Comp, Ad Maker","ibacc_sponsors.md, nsuyes_sponsors.md"
+84,Kaler Kantho,National Bangla Daily,Print Media Partner,"JBC, NDBC, DCCBC",Josephite Entrepreneurs' Den,jbc_sponsors.md
+85,BanglaVision,Broadcast Television,Broadcast Media Partner,"JBC, DCCBC",4th Josephite Entrepreneurs' Den,jbc_sponsors.md
+86,Channel i,Broadcast Television,Broadcast Media Partner,"NDBC, BUP BCC","Business Fest Bangladesh, CreADive","ndbc_sponsors.md, bupbcc_sponsors.md"
+87,Radio Capital FM 94.8,FM Radio Broadcasting,Official Radio Partner,Biz Bee (BRACU),ADWiz 2.0,bizbee_sponsors.md
+88,Radio Shadhin 92.4 FM,FM Radio Broadcasting,Radio Partner,JBC,Walton 3rd JED,jbc_sponsors.md
+89,Bangladesh Law Partners (BDLP),Corporate Legal Services,Gold & Co-Powered Partner,NDBC,Business Fest Bangladesh 2026,ndbc_sponsors.md
+90,CONCITO PR,Public Relations Agency,PR Partner,IBACC (DU),Brandwitz 2017,ibacc_sponsors.md
