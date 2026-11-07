@@ -40,6 +40,14 @@ This skill provides the standard operating procedure (SOP), strict verification 
 ### Invariant 6: Concurrent Multi-Subagent Execution
 - When crawling or auditing multiple clubs, run 3 to 4 subagents concurrently to avoid blocking on slow page loads.
 
+### Invariant 7: Real Chrome Profile & DOM Navigation (No Blank/Incognito Windows)
+- Operate strictly within the user's active Chrome browser profile where their session is logged in.
+- Do not launch blank, clean, or incognito Chrome instances that lack authentication.
+- When navigating Facebook pages and photo dialogs, use real DOM events and tab multitasking. While one tab is loading, switch to another tab to extract data in parallel.
+
+### Invariant 8: Real-time Messenger Progress Updates
+- Frequently notify the user ("Sakibul Hasan Sakin") on Facebook Messenger through their active browser session with concise milestone updates on newly verified sponsor links and ingested partner clubs.
+
 ---
 
 ## 2. Standard Operating Procedure (SOP)
