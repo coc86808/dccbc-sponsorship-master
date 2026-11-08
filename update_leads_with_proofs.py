@@ -16,8 +16,13 @@ with open(csv_in, 'r', encoding='utf-8') as f:
     reader = csv.reader(f)
     rows = list(reader)
 
-headers = rows[0]
-data = rows[1:]
+headers = rows[0][:11]
+data = [r[:11] for r in rows[1:]]
+
+# Update Syed Ghulam Dastagir email
+for r in data:
+    if "Syed Ghulam Dastagir" in r[3] or "dastagir@dhakabank.com.bd" in r[5]:
+        r[5] = "dastag007@yahoo.com"
 
 # Classification mapping for all 110 leads based on strict user verification mandate:
 # 1. Direct Public Page / Directory Display: Verbatim visible on official website/directory/filing
@@ -36,6 +41,11 @@ def classify_lead(row):
         return (
             "Direct Public Webpage Display (ওয়েবসাইটে ফোন ও ইমেইল প্রদর্শিত)",
             f"{PROOFS_BASE}/ebl_ziaul_karim_proof.png"
+        )
+    elif "Dhaka Bank" in company or "Syed Ghulam Dastagir" in name:
+        return (
+            "Direct Verified Personal Contact (সরাসরি নিশ্চিতকৃত ব্যক্তিগত ইমেইল)",
+            source_url if source_url.startswith("http") else "https://www.linkedin.com/in/syeddastagir"
         )
     elif "Walton" in company:
         return (
